@@ -1,0 +1,54 @@
+
+div{	
+
+height: 600px;
+width: 750px;
+align: center;
+	margin: auto;
+ background-color: white;
+border-radius: 15%;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+	margin-top: 92px;
+  color: black;
+  text-align: center;
+}
+h4{
+
+	font-size: 35px;
+	margin-left: 70px;
+}
+h2{
+
+	font-size: 35px;
+
+	margin-top: 50px;
+	margin-left: 70px;
+}
+h6{
+	margin-left: 25px;
+	font-size: 30px;
+}
+.moods{
+	height: 550px;
+width: 750px;
+align: center;
+	margin: auto;
+ background-color: white;
+border-radius: 25%;
+}
+img{
+	margin-left:80px;
+	align: center;
+	border-radius: 15%;
+}
+p {
+	margin-left: 70px;
+  font-family: verdana;
+  font-size: 30px;
+}
